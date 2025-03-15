@@ -1,1 +1,1 @@
-<div><h1>Yemek tarifi ödevi!</h1></div>
+<div><h1>Yemek tarifi!</h1></div>
